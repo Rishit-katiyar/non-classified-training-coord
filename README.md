@@ -67,7 +67,6 @@ To start using the Non-Classified Training Coordination Platform, follow these s
    git clone https://github.com/Rishit-katiyar/non-classified-training-coord.git
    ```
 
-   Replace `Rishit-katiyar` with your actual GitHub username.
 
 2. **Install Dependencies:**
 
